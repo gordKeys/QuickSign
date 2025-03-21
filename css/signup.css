@@ -1,0 +1,54 @@
+ .u-section-1 {
+  background-image: url("../images/photo_2025-03-20_22-06-22.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 615px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 43px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 369px;
+  width: 570px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.5);
+  background-image: none;
+  margin: 37px auto 60px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    --radius: 23px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
